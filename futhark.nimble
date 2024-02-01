@@ -12,7 +12,7 @@ bin           = @["opir"]
 # Dependencies
 
 requires "nim >= 1.4.8"
-requires "https://github.com/PMunch/libclang-nim#head"
+requires "https://github.com/PMunch/libclang-nim"
 requires "termstyle"
 requires "macroutils"
 requires "https://github.com/PMunch/nimbleutils >= 0.3.0"
